@@ -44,3 +44,5 @@ nahuelcittadino@gmail.com
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellnahuel)](https://github.com/wellnahuel/github-readme-stats)
+
