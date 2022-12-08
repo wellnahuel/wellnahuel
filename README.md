@@ -43,3 +43,5 @@ You can contact me at nahuelcittadino@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellnahuel)](https://github.com/wellnahuel/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/f162ae5087fb82140160655c44095977cbeda72b71bfdacccc7d35f23cf17ed3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d706575726d616e266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellnahuel&amp;langs_count=8&amp;layout=compact&amp;theme=dracula" style="max-width: 100%;"></a>
+
