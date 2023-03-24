@@ -17,8 +17,6 @@
 
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a> nahuelcittadino@gmail.com
 
-<br />
-
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,8 +34,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellnahuel&theme=dark)](https://github.com/wellnahuel/github-readme-stats)
 
