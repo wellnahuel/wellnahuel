@@ -9,7 +9,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to playing padel and riding a bike.
 
-<img align="right" alt="GIF" height="360px" src="https://i.pinimg.com/originals/c4/a9/cc/c4a9cc657b08e571d24b48e3e1ce9ee2.gif" />
+<img align="right" alt="GIF" height="280px" src="https://i.pinimg.com/originals/c4/a9/cc/c4a9cc657b08e571d24b48e3e1ce9ee2.gif" />
 
 
 ---
