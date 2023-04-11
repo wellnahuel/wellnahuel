@@ -1,6 +1,6 @@
-# Hi there, I'm Nahuel Cittadino - aka wellnahuel <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Nahuel Cittadino - aka wellnahuel 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## I'm a Frontend Web Developer in constant learning  
 
@@ -8,6 +8,9 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to playing padel and riding a bike.
+
+<img align="right" alt="GIF" height="320px" src="https://i.pinimg.com/originals/73/fb/8d/73fb8d3b450341b328503ccc309bb90f.gif" />
+
 
 ---
 
