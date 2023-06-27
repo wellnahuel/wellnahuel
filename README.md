@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Web Developer in constant learning  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, NextJS, etc.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to playing padel and riding a bike.
