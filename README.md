@@ -1,7 +1,5 @@
 # Hi there, I'm Nahuel Cittadino - aka wellnahuel 
 
-
-
 ## I'm a Frontend Web Developer in constant learning  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, NextJS, etc.
@@ -10,7 +8,6 @@
 - ⚡ Fun fact: I love to playing padel and riding a bike.
 
 <img align="right" alt="GIF" height="280px" src="https://i.pinimg.com/originals/c4/a9/cc/c4a9cc657b08e571d24b48e3e1ce9ee2.gif" />
-
 
 ---
 
