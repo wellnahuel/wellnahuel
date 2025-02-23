@@ -10,7 +10,7 @@
 
 ---
 
-### Contact with Me 📝
+### Contact With Me 📝
 
 <a href="https://www.linkedin.com/in/nahuel-cittadino-b386331b2/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 
